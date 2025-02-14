@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Book Shorts/Book Shorts-InfoPlist.xcstrings" source-language="ru" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Book Shorts</source>
+        <target state="new">Book Shorts</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Book Shorts/Localizable.xcstrings" source-language="ru" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Hello! Its settings view :)" xml:space="preserve">
+        <source>Hello! Its settings view :)</source>
+        <target state="new">Hello! Its settings view :)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello, World!" xml:space="preserve">
+        <source>Hello, World!</source>
+        <target state="new">Hello, World!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello, library!" xml:space="preserve">
+        <source>Hello, library!</source>
+        <target state="new">Hello, library!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Акаунт" xml:space="preserve">
+        <source>Акаунт</source>
+        <target state="new">Акаунт</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Библиотека" xml:space="preserve">
+        <source>Библиотека</source>
+        <target state="new">Библиотека</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Вы еще не авторизовались" xml:space="preserve">
+        <source>Вы еще не авторизовались</source>
+        <target state="new">Вы еще не авторизовались</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Тест" xml:space="preserve">
+        <source>Тест</source>
+        <target state="new">Тест</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Это можно сделать сейчас :)" xml:space="preserve">
+        <source>Это можно сделать сейчас :)</source>
+        <target state="new">Это можно сделать сейчас :)</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
