@@ -18,14 +18,17 @@
     <body>
       <trans-unit id="Hello! Its settings view :)" xml:space="preserve">
         <source>Hello! Its settings view :)</source>
+        <target state="translated">Hello! Its settings view :)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hello, World!" xml:space="preserve">
         <source>Hello, World!</source>
+        <target state="translated">Hello, World!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hello, library!" xml:space="preserve">
         <source>Hello, library!</source>
+        <target state="translated">Hello, library!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Акаунт" xml:space="preserve">
@@ -40,14 +43,17 @@
       </trans-unit>
       <trans-unit id="Вы еще не авторизовались" xml:space="preserve">
         <source>Вы еще не авторизовались</source>
+        <target state="translated">You are don’t autorigistred</target>
         <note/>
       </trans-unit>
       <trans-unit id="Тест" xml:space="preserve">
         <source>Тест</source>
+        <target state="translated">Text</target>
         <note/>
       </trans-unit>
       <trans-unit id="Это можно сделать сейчас :)" xml:space="preserve">
         <source>Это можно сделать сейчас :)</source>
+        <target state="translated">You can change this now :)</target>
         <note/>
       </trans-unit>
     </body>

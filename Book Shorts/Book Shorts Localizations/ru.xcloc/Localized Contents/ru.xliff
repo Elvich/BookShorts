@@ -19,42 +19,42 @@
     <body>
       <trans-unit id="Hello! Its settings view :)" xml:space="preserve">
         <source>Hello! Its settings view :)</source>
-        <target state="new">Hello! Its settings view :)</target>
+        <target state="translated">Привет! Это экран настроек :)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hello, World!" xml:space="preserve">
         <source>Hello, World!</source>
-        <target state="new">Hello, World!</target>
+        <target state="translated">Привет, Мир!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hello, library!" xml:space="preserve">
         <source>Hello, library!</source>
-        <target state="new">Hello, library!</target>
+        <target state="translated">Привет, Библиотека!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Акаунт" xml:space="preserve">
         <source>Акаунт</source>
-        <target state="new">Акаунт</target>
+        <target state="translated">Акаунт</target>
         <note/>
       </trans-unit>
       <trans-unit id="Библиотека" xml:space="preserve">
         <source>Библиотека</source>
-        <target state="new">Библиотека</target>
+        <target state="translated">Библиотека</target>
         <note/>
       </trans-unit>
       <trans-unit id="Вы еще не авторизовались" xml:space="preserve">
         <source>Вы еще не авторизовались</source>
-        <target state="new">Вы еще не авторизовались</target>
+        <target state="translated">Вы еще не авторизовались</target>
         <note/>
       </trans-unit>
       <trans-unit id="Тест" xml:space="preserve">
         <source>Тест</source>
-        <target state="new">Тест</target>
+        <target state="translated">Тест</target>
         <note/>
       </trans-unit>
       <trans-unit id="Это можно сделать сейчас :)" xml:space="preserve">
         <source>Это можно сделать сейчас :)</source>
-        <target state="new">Это можно сделать сейчас :)</target>
+        <target state="translated">Это можно сделать сейчас :)</target>
         <note/>
       </trans-unit>
     </body>
